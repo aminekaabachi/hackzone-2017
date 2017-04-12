@@ -1,0 +1,5 @@
+-open the file using resource hacker
+-you'll find a resource named code.wav save it
+-decode that file (resource) with dtmf decoder
+-get the password for FLAG.rar
+-extract it and open the photo and make a zooom xD

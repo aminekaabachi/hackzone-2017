@@ -1,0 +1,5 @@
+correct the QR CODE BY Replacing All Cercles with Squares
+Scan It Get The Code
+Use that code to the archive "IDU.jpg"
+Decrypt The PNG File using the website www.mobilefish.com
+Get The Flag

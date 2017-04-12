@@ -1,0 +1,9 @@
+Decrypt encrypted.bin with AES 128 bit decrypt
+then use TROLL as password of AES.exe
+in the phone picture if you call troll your gonna type
+TROLL
+87655
+See TrollFaceQuest 3 Game on youtube
+use that password for the archive "TrollFace Quest 3.rar"
+Decode the TROLL.txt with base64
+you find the flag
