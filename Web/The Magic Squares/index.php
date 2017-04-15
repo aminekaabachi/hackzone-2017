@@ -9,7 +9,7 @@ $im3 = imagecreate(64,64);
 $im4 = imagecreate(64,64);
 $im5 = imagecreate(64,64);
 $im6 = imagecreate(64,64);
-$text = 'Cs1E';
+$text = 'TYPE YOUR FLAG HERE';
 
 $a = hash("sha256",$text);
 
